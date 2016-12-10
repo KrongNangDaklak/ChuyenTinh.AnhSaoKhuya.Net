@@ -1,0 +1,12 @@
+﻿a{font-weight:bold}
+A:visited{color:green;Text-Decoration:none}
+A:link{color:green;  Text-Decoration:none}
+A:hover{color:red;Text-Decoration:none}
+
+BODY {cursor:url("flash/ktc.ani");
+background-color:#ffffff;
+background-image:url(anh/nen-duoi.jpg);
+background-attachment: fixed}
+table{font-family:Times;font-size:18px}
+.anhsaokhuya,hr { color: green }
+.chicancoem{color:#ff00ff;font-style:italic}
